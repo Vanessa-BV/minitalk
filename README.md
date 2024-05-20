@@ -1,3 +1,5 @@
+# Codam Rank 02
+
 # minitalk
 This is a simple client-server communication program implemented in C, where the communication between the client and server is achieved solely through UNIX signals. The server must be started first, followed by the client. The server will print its process ID (PID) upon launch.
 
