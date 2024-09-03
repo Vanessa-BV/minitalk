@@ -31,7 +31,6 @@ Sends the provided string to the server using signals.
 Handles errors thoroughly and ensures the server acknowledges every received message.
 
 ## Bonus Part
-Acknowledgement
 The server acknowledges every message received by sending back a signal to the client.
 Unicode Support
 Unicode character support is not implemented in the current version of the program.
