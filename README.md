@@ -25,8 +25,7 @@ Communication between the client and server is accomplished using only the signa
 
 ### Client
 Takes two parameters:
-The PID of the server.
-The string to send to the server.
+The PID of the server and the string to send to the server.
 Sends the provided string to the server using signals.
 Handles errors thoroughly and ensures the server acknowledges every received message.
 
